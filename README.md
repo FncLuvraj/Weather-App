@@ -28,11 +28,9 @@ Project Structure
 	•	index.js: The JavaScript file containing the logic for fetching and displaying weather data.
 
 Screenshots
-<img width="1440" alt="Screenshot 2024-07-30 at 1 54 52 PM" src="https://github.com/user-attachments/assets/d1e6aae1-d74b-479f-849c-87d25c938464">
-<img width="1440" alt="Screenshot 2024-07-30 at 1 55 10 PM" src="https://github.com/user-attachments/assets/e3b7ce91-c797-4c18-85ab-6eec0059a8bc">
-<img width="1440" alt="Screenshot 2024-07-30 at 1 55 27 PM" src="https://github.com/user-attachments/assets/1b66af3f-d07a-41ad-b865-2a6450bb36b2">
-<img width="1440" alt="Screenshot 2024-07-30 at 1 55 44 PM" src="https://github.com/user-attachments/assets/d4c92718-48a9-4b71-b86c-f015b83ad495">
-
+<img width="1440" alt="Screenshot 2024-07-30 at 1 57 15 PM" src="https://github.com/user-attachments/assets/ef5ceb21-2c99-4edf-9ea4-4b0b043aca3f">
+<img width="1440" alt="Screenshot 2024-07-30 at 1 57 37 PM" src="https://github.com/user-attachments/assets/c1f5c028-a1bd-4fec-92ce-dbda8a2445fb">
+<img width="1440" alt="Screenshot 2024-07-30 at 1 57 52 PM" src="https://github.com/user-attachments/assets/d3edb50b-9f3c-476e-b228-e013ec006afb">
 
 Contributing
 
