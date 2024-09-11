@@ -7,8 +7,6 @@ const searchForm = document.querySelector("[data-searchForm]");
 const loadingScreen = document.querySelector(".loading-container");
 const userInfoContainer = document.querySelector(".user-info-container");
 
-//initially vairables need????
-
 let oldTab = userTab;
 const API_KEY = "d1845658f92b31c64bd94f06f7188c9c";
 oldTab.classList.add("current-tab");
@@ -81,7 +79,6 @@ async function fetchUserWeatherInfo(coordinates) {
     }
     catch(err) {
         loadingScreen.classList.remove("active");
-        //HW
 
     }
 
@@ -119,7 +116,7 @@ function getLocation() {
         navigator.geolocation.getCurrentPosition(showPosition);
     }
     else {
-        //HW - show an alert for no gelolocation support available
+        
     }
 }
 
@@ -165,6 +162,5 @@ async function fetchSearchWeatherInfo(city) {
         renderWeatherInfo(data);
     }
     catch(err) {
-        //hW
     }
 }
